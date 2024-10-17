@@ -14,7 +14,7 @@ You work with Flow through its intuitive web application or using the command li
 Business users and analysts can configure data flows to connect disparate systems in minutes,
 and engineers can then refine those data flows, troubleshoot, and configure complex transformations in their preferred environment.
 
-### Quick start
+## Quick start
 
 **Want to get up and running ASAP?**
 
